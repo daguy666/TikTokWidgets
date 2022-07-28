@@ -1,6 +1,6 @@
 {
 
-  "uniqueId": "santajclaus",
+  "uniqueId": ".vintendo",
   "fontSize": 64,
   "fontWeight": 800,
   "fadeIn": 2000,
@@ -12,6 +12,7 @@
   "sounds": {
     "gift": {
       "rose": "/sounds/enchanted.wav",
+      "galaxy": "/sounds/bitgod.wav",
       "default": null
     },
     "subscribe": "/sounds/enchanted.wav",
